@@ -6,10 +6,6 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -27,28 +23,34 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
-<h2>Lifecycle Stages</h2>
+<h2>Lifecycle Stages - Ticket Creation Portal</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095551979343847556/image.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+This is the beginning of what accessing the End Users page looks like, options are continue as a guest or login if you normally create tickets regularly. For this portion of the lab, i'll be creating 3 labs with varying SLA level and problems. The one i'll be focusing on is our SEV-A case, Mobile Banking Disruption.
+</p>
+<br />
+<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095555680766795777/image.png"/>
+
+My enduser will be Ken Masters reporting on the topic of "Business Critical Outage". This automatically sets the severity on an Emergency Level when submitted
+<p>
+<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095556653161652234/image.png"/>
+</p>
+<p>
+<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095565611767185479/image.png"/>
+</p>
+<p>
+I've submitted the other tickets Accounting team needs adobe upgrades and Accounting team's tablets running slow. Although those are SEV-B, the natural order and time allotment for SEV-A is a lot more strict so i'll open it.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095566951075545178/image.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As a level I support, I don't have the resources to deal with an issue as critical as Mobile Banking. I transfer the ticket and notify the recipient that a fix is still being looked into
 </p>
 <br />
