@@ -69,5 +69,5 @@ Marlon Robinson was able to find the solution "Found the issue with the Load Bal
 <p>
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095585762247983104/image.png"/>
 
-The ticket is now marked as resolved and within proper SLA.
+The ticket is now marked as resolved and within the proper SLA timeframe
 
