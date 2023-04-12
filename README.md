@@ -35,7 +35,7 @@ This is the beginning of what accessing the End Users page looks like, options a
 <br />
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095555680766795777/image.png"/>
 
-My enduser will be Ken Masters reporting on the topic of "Business Critical Outage". This automatically sets the severity on an Emergency Level when submitted
+My end-user will be Ken Masters reporting on the topic of "Business Critical Outage". This automatically sets the severity on an Emergency Level when submitted
 <p>
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095556653161652234/image.png"/>
 </p>
@@ -49,8 +49,23 @@ I've submitted the other tickets Accounting team needs adobe upgrades and Accoun
 
 <p>
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095566951075545178/image.png"/>
+|<p>
+<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095580344788451399/image.png"/>
 </p>
 <p>
-As a level I support, I don't have the resources to deal with an issue as critical as Mobile Banking. I transfer the ticket and notify the recipient that a fix is still being looked into
+As a level I support, I don't have the resources to deal with an issue as critical as Mobile Banking. I transfer the ticket to System Adminstrator Marlon Robinson, and notify the recipient that a fix is still being looked into. I will login into Marlon's account to handle the ticket transfer
 </p>
 <br />
+
+<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095582978383556608/image.png/image.png"/>
+
+
+<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095582978152865832/image.png"/>
+
+<p>
+Marlon Robinson was able to find the solution "Found the issue with the Load Balancer and has reset it" and now will mark the ticket as resolved
+<p>
+<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095585762247983104/image.png"/>
+
+The ticked can now be marked as resolved 
+
