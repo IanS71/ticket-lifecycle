@@ -38,7 +38,7 @@ This is the beginning of what accessing the End Users page looks like, options a
 My end-user will be Ken Masters reporting on the topic of "Business Critical Outage". This automatically sets the severity on an Emergency Level when submitted.
 <p>
 <h2>Help Desk Associate Portal</h2>
-<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095556653161652234/image.png"/>
+
 </p>
 <p>
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095565611767185479/image.png"/>
@@ -50,8 +50,8 @@ In addition to the SEV-A ticket i've also created lower severity tickets focused
  
 Here is what the ticket looks like as an associate.
 <p>
-<img src="https://cdn.discordapp.com/attachments/677756436784218132/1095566951075545178/image.png"/>
-|<p>
+
+<p>
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095580344788451399/image.png"/>
 </p>
 <p>
