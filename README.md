@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <p>
 
-This is the beginning of what accessing the End Users page looks like, options are continue as a guest or login if you normally create tickets regularly. For this portion of the lab, i'll be creating 3 labs with varying SLA level and problems. The one i'll be focusing on is our SEV-A case, Mobile Banking Disruption.
+This is the beginning of what accessing the End Users page looks like, options are continue as a guest or login if you normally create tickets regularly. For this portion of the lab, i'll be creating 3 labs with varying SLA level and problems. The one i'll be focusing on is the SEV-A case, Mobile Banking Disruption.
 </p>
 <br />
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095555680766795777/image.png"/>
@@ -44,10 +44,11 @@ My end-user will be Ken Masters reporting on the topic of "Business Critical Out
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095565611767185479/image.png"/>
 </p>
 <p>
-I've submitted the other tickets Accounting team needs adobe upgrades and Accounting team's tablets running slow. Although those are SEV-B, the natural order and time allotment for SEV-A is a lot more strict so i'll open it.
+In addition to the SEV-A ticket i've also created lower severity tickets focused around SEV-B.
 </p>
 <br />
-
+ 
+Here is what the ticket looks like as an associate.
 <p>
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095566951075545178/image.png"/>
 |<p>
