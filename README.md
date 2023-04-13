@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <p>
 
-This is the beginning of what accessing the End Users page looks like, options are continue as a guest or login if you normally create tickets regularly. For this portion of the lab, i'll be creating 3 labs with varying SLA level and problems. The one i'll be focusing on is the SEV-A case, Mobile Banking Disruption.
+This is the beginning of what accessing the End Users page looks like, options are to continue as a guest or login if you normally create tickets regularly. For this portion of the lab, I'll be creating 3 labs with varying SLA levels and problems. The one I'll be focusing on is the SEV-A case, Mobile Banking Disruption.
 </p>
 <br />
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095555680766795777/image.png"/>
@@ -44,7 +44,7 @@ My end-user will be Ken Masters reporting on the topic of "Business Critical Out
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095565611767185479/image.png"/>
 </p>
 <p>
-In addition to the SEV-A ticket i've also created lower severity tickets focused around SEV-B.
+In addition to the SEV-A ticket, I've also created lower-severity tickets focused on SEV-B.
 </p>
 <br />
  
@@ -55,7 +55,7 @@ Here is what the ticket looks like as an associate.
 <img src="https://cdn.discordapp.com/attachments/677756436784218132/1095580344788451399/image.png"/>
 </p>
 <p>
-As a level I support, I don't have the resources to deal with an issue as critical as Mobile Banking. I transfer the ticket to System Adminstrator Marlon Robinson, and notify the recipient that a fix is still being looked into. I will login into Marlon's account to handle the ticket transfer
+As a level I support, I don't have the resources to deal with an issue as critical as Mobile Banking. I transfer the ticket to System Administrator Marlon Robinson and notify the recipient that a fix is still being looked into. I will log into Marlon's account to handle the ticket transfer
 </p>
 <br />
 <h2>Escalating the ticket to resolution</h2>
